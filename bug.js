@@ -1,0 +1,1 @@
+This error occurs when using the Expo Camera API and attempting to access the camera's features before the camera has fully initialized.  It typically manifests as a `Camera.useCamera` or `Camera.takePicture` error. This might not always throw an explicit error but rather return unexpected behavior.
